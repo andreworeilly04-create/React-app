@@ -1,0 +1,17 @@
+*{
+    box-sizing:border-box;
+}
+
+
+
+.todo{
+    color:orange;
+    width:33%;
+    border:1px solid blue;
+    padding:12px 20px;
+}
+
+.todo__wrapper{
+    display: flex;
+    flex-wrap:wrap;
+}
